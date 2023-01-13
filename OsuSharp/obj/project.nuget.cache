@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3rlzEVkNb/vFBq5l1ceczD8oo5hVZgk+whL8O7cfo687CgJG/h1m1pjT3tAWrcQwkfUWmuil+7ccM7HmYYWrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dieko\\RiderProjects\\OsuSharp\\OsuSharp\\OsuSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dieko\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

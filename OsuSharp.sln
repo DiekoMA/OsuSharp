@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuSharp.ConsoleExample", "OsuSharp.ConsoleExample\OsuSharp.ConsoleExample.csproj", "{BB8FD104-D6D4-4B8B-B69A-50E33B4BE318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuSharp", "OsuSharp\OsuSharp.csproj", "{053735F0-6717-48AD-B0FC-19B3F95995CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8FD104-D6D4-4B8B-B69A-50E33B4BE318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8FD104-D6D4-4B8B-B69A-50E33B4BE318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8FD104-D6D4-4B8B-B69A-50E33B4BE318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8FD104-D6D4-4B8B-B69A-50E33B4BE318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053735F0-6717-48AD-B0FC-19B3F95995CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053735F0-6717-48AD-B0FC-19B3F95995CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053735F0-6717-48AD-B0FC-19B3F95995CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053735F0-6717-48AD-B0FC-19B3F95995CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
